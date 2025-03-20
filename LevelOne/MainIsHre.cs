@@ -2,6 +2,9 @@
 
 namespace LevelOne
 {
+    /// <summary>
+    /// This class is the entry point of the program.
+    /// </summary>
     public class MainIsHere
     {
         /// <summary>
