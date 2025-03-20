@@ -2,7 +2,7 @@
 
 namespace LevelOne
 {
-    public class Program
+    public class MainIsHere
     {
         private static void Main(string[] args)
         {
