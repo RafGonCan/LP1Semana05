@@ -21,5 +21,9 @@ namespace CarStats
             BarChart bc = new BarChart();
             bc.AddItem("BMW", faker.Random.Number(1, 20));
         }
+        public string Manufacturer()
+        {
+            return GetRandomArrayItem("manufacturer");
+        }
     }
 }
