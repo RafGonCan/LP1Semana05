@@ -6,4 +6,13 @@
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Spectre.Console" Version="0.49.1" />
+    <PackageReference Include="Spectre.Console.ImageSharp" Version="0.49.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SoGoodLib\SoGoodLib.csproj" />
+  </ItemGroup>
+
 </Project>
